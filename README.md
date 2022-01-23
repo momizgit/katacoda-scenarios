@@ -8,3 +8,5 @@ Visit https://www.katacoda.com/momizid79 to view the profile and interactive sce
 Visit https://www.katacoda.com/docs to learn more about creating Katacoda scenarios
 
 For examples, visit https://github.com/katacoda/scenario-example
+
+For the first time run **"npm install katacoda-cli --global"**. More details can be found at npmjs.com/package/katacoda-cli.
